@@ -1,2 +1,2 @@
-# manuscript_2
-Code for downloading data from DEA and processing it in Rstudio
+# Mapping irrigated agriculture 
+Code for downloading data from DEA (python) and processing it in Rstudio (R)
